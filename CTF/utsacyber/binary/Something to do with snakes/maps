@@ -1,0 +1,17 @@
+08048000-0804a000 r-xp 00000000 08:01 519128                             /home/user/pwn
+0804a000-0804b000 r-xp 00001000 08:01 519128                             /home/user/pwn
+0804b000-0804c000 rwxp 00002000 08:01 519128                             /home/user/pwn
+0804c000-0806e000 rwxp 00000000 00:00 0                                  [heap]
+f7e18000-f7e19000 rwxp 00000000 00:00 0 
+f7e19000-f7fc6000 r-xp 00000000 08:01 530352                             /lib32/libc-2.23.so
+f7fc6000-f7fc7000 ---p 001ad000 08:01 530352                             /lib32/libc-2.23.so
+f7fc7000-f7fc9000 r-xp 001ad000 08:01 530352                             /lib32/libc-2.23.so
+f7fc9000-f7fca000 rwxp 001af000 08:01 530352                             /lib32/libc-2.23.so
+f7fca000-f7fcd000 rwxp 00000000 00:00 0 
+f7fd3000-f7fd4000 rwxp 00000000 00:00 0 
+f7fd4000-f7fd7000 r--p 00000000 00:00 0                                  [vvar]
+f7fd7000-f7fd9000 r-xp 00000000 00:00 0                                  [vdso]
+f7fd9000-f7ffc000 r-xp 00000000 08:01 530345                             /lib32/ld-2.23.so
+f7ffc000-f7ffd000 r-xp 00022000 08:01 530345                             /lib32/ld-2.23.so
+f7ffd000-f7ffe000 rwxp 00023000 08:01 530345                             /lib32/ld-2.23.so
+fffdd000-ffffe000 rwxp 00000000 00:00 0                                  [stack]
