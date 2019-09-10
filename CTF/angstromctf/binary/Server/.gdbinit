@@ -1,0 +1,5 @@
+break *0x0040105d
+break *0x00401042
+break *0x004010b2
+break *0x004010c4
+break *0x00401053

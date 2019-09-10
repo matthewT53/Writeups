@@ -1,0 +1,3 @@
+break *0x401317
+break *0x40132d
+break *0x40138e

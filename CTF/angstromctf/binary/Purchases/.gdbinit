@@ -1,0 +1,4 @@
+break *0x004012a8
+break *0x00401330
+break *0x00401326
+break *0x004011b6
