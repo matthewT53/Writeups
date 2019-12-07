@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Tue Sep 17 17:14:38 2019 as: nmap -sC -sV -oA nmap 10.10.10.138
+Host: 10.10.10.138 ()	Status: Up
+Host: 10.10.10.138 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.4p1 Debian 10+deb9u6 (protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.25 ((Debian))/	Ignored State: filtered (998)
+# Nmap done at Tue Sep 17 17:15:07 2019 -- 1 IP address (1 host up) scanned in 29.74 seconds
